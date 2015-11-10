@@ -1,6 +1,6 @@
-#Assignment 4
+
 # Constraints Satisfaction Problem
-# B551 Fall 2015
+
 # 
 # Name: Deepika Bajpai
 # User Id: dbajpai
@@ -24,20 +24,7 @@
 #  eeps the track of number of backtracks using a global variable.
 #
 #  
-#                    2.Problems Faced and Assumptions:
-#    
-# The problem faced during the solution formulation is on how to start assigning the frequencies to states. 
-# For this the program makes use the concept of most constrained state determination. 
-# sorted the states on the numbers of neighbors .
-# We have assumed the neighbors list to be final as the program uses the hardcoded values for neighbors dictionary.
-#              
-#                    3. How well the smart zacate player program Works:
-#
-# Results achieved for various runs: 
-# The program is able to assign the frequencies to all the states using all three input legacy constraints files succesfully.
-# No. of backtracks for legacy-constraints-1=0
-# No of backtracks for  legacy-constraints-2=0
-# No of backtracks for  legacy-constraints-3=1
+#                    
 #
 # Reference:https://gist.github.com/sramana/583681
 ##**********************************************************************************************************************************************************************************
